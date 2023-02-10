@@ -1,7 +1,6 @@
 # Web-Scraping-to-Create-a-Dataset-using-Python
-Web Scraping to Create a Dataset using Python
 
-Web Scraping is one of the skills that every data science professional should know.
+## Web Scraping is one of the skills that every data science professional should know.
 
 Sometimes the data we need is available on a website in the form of a table that cannot be downloaded directly.
 
