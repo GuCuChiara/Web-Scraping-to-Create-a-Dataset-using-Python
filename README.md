@@ -11,10 +11,10 @@ There are so many libraries, frameworks, and tools that are used for the task of
 
 Some of the most common libraries and modules in Python used for web scraping are:
 
--Scrapy
--Selenium
--BeautifulSoup
--urlib.request
+* Scrapy
+* Selenium
+* BeautifulSoup
+* urlib.request
 
 All of the above Python libraries and modules are great for scraping data from websites.
 
